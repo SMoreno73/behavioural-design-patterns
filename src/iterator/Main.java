@@ -43,5 +43,16 @@ public class Main {
         for (LibraryItem item : selectedCategory.getItems()) {
             System.out.println("- " + item.getTitle());
         }
+        /*
+        Opción 1:
+        Elementos en la categoría 'Books':
+        - Java Programming
+        - Data Structures and Algorithms
+
+        Opción 2:
+        Elementos en la categoría 'Magazines':
+        - National Geographic
+        - Time
+         */
     }
 }
