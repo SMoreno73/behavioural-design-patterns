@@ -1,4 +1,4 @@
-package memento;
+package command;
 
 import java.util.Stack;
 

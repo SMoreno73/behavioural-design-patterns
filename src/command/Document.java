@@ -1,4 +1,4 @@
-package memento;
+package command;
 
 public class Document {
     private StringBuilder text;

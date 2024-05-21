@@ -1,4 +1,4 @@
-package memento;
+package command;
 
 public class EditCommand implements Command{
     private final Document document;
